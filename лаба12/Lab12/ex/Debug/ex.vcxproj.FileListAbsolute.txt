@@ -1,0 +1,4 @@
+C:\Study\OSI\Lab12\ex\Debug\ex.exe
+C:\Study\OSI\Lab12\ex\Debug\ex.pdb
+C:\Users\Admin\Desktop\оси\лаба12\Lab12\ex\Debug\ex.exe
+C:\Users\Admin\Desktop\оси\лаба12\Lab12\ex\Debug\ex.pdb
