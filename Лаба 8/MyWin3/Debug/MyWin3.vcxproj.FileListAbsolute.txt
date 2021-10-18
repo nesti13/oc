@@ -1,0 +1,3 @@
+D:\Университет 2 семестр\ОСИ\Лабораторные\Лаба 8\MyWin3\Debug\MyWin3.exe
+C:\Users\Admin\Desktop\оси\Лаба 8\MyWin3\Debug\MyWin3.exe
+C:\Users\Admin\Desktop\оси\Лаба 8\MyWin3\Debug\MyWin3.pdb

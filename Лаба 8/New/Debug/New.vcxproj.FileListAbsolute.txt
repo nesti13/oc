@@ -1,0 +1,3 @@
+D:\Университет 2 семестр\ОСИ\Лабораторные\Лаба 8\New\Debug\New.exe
+C:\Users\Admin\Desktop\оси\Лаба 8\New\Debug\New.exe
+C:\Users\Admin\Desktop\оси\Лаба 8\New\Debug\New.pdb
