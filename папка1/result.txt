@@ -1,0 +1,3 @@
+Сравнение файлов C:\USERS\ADMIN\DESKTOP\ОСИ\ПАПКА2\text2.txt и C:\USERS\ADMIN\DESKTOP\ОСИ\ПАПКА2\TEXT4.TXT
+FC: различия не найдены
+
