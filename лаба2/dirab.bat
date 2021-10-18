@@ -1,0 +1,2 @@
+CLS
+DIR C:
